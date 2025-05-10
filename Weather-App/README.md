@@ -71,15 +71,6 @@ Weather-App/
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-> Created with ❤️ by [Kishankumar1328](https://github.com/Kishankumar1328)
-
-```
 
 You can copy-paste this directly into your `README.md` file. Would you like help creating a real screenshot to replace the placeholder image link?
 ```
